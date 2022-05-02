@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PasswordsAndTDDTest" project="Lab3.4_PasswordsAndTDD" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="PasswordsAndTDDTest" time="0.075" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]">
+    <testcase name="testList1" classname="PasswordsAndTDDTest" time="0.063" displayname="testList1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testList1()]"/>
+    <testcase name="testList2" classname="PasswordsAndTDDTest" time="0.002" displayname="testList2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testList2()]"/>
+    <testcase name="testNum1" classname="PasswordsAndTDDTest" time="0.001" displayname="testNum1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testNum1()]"/>
+    <testcase name="testNum2" classname="PasswordsAndTDDTest" time="0.002" displayname="testNum2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testNum2()]"/>
+    <testcase name="testLength1" classname="PasswordsAndTDDTest" time="0.001" displayname="testLength1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testLength1()]"/>
+    <testcase name="testLength2" classname="PasswordsAndTDDTest" time="0.001" displayname="testLength2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testLength2()]"/>
+  </testsuite>
+</testrun>

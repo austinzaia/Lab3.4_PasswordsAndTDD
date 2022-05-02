@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PasswordsAndTDDTest" project="Lab3.4_PasswordsAndTDD" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="PasswordsAndTDDTest" time="0.065" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]">
+    <testcase name="testList1" classname="PasswordsAndTDDTest" time="0.061" displayname="testList1()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testList1()]"/>
+    <testcase name="testList2" classname="PasswordsAndTDDTest" time="0.002" displayname="testList2()" uniqueid="[engine:junit-jupiter]/[class:PasswordsAndTDDTest]/[method:testList2()]"/>
+  </testsuite>
+</testrun>

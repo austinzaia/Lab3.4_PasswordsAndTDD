@@ -1,0 +1,13 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class PasswordsAndTDDTest {
+
+	@Test
+	void testList1() {
+		boolean expected = false;
+		boolean actual = PasswordsAndTDD.passwordValidate("BUGGY55");
+		assertEquals(expected, actual);
+	}
+}
